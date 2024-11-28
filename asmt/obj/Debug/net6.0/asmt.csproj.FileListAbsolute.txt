@@ -1,0 +1,15 @@
+/home/paulg/projects/sandbox/asmt/asmt/bin/Debug/net6.0/asmt
+/home/paulg/projects/sandbox/asmt/asmt/bin/Debug/net6.0/asmt.deps.json
+/home/paulg/projects/sandbox/asmt/asmt/bin/Debug/net6.0/asmt.runtimeconfig.json
+/home/paulg/projects/sandbox/asmt/asmt/bin/Debug/net6.0/asmt.dll
+/home/paulg/projects/sandbox/asmt/asmt/bin/Debug/net6.0/asmt.pdb
+/home/paulg/projects/sandbox/asmt/asmt/obj/Debug/net6.0/asmt.csproj.AssemblyReference.cache
+/home/paulg/projects/sandbox/asmt/asmt/obj/Debug/net6.0/asmt.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulg/projects/sandbox/asmt/asmt/obj/Debug/net6.0/asmt.AssemblyInfoInputs.cache
+/home/paulg/projects/sandbox/asmt/asmt/obj/Debug/net6.0/asmt.AssemblyInfo.cs
+/home/paulg/projects/sandbox/asmt/asmt/obj/Debug/net6.0/asmt.csproj.CoreCompileInputs.cache
+/home/paulg/projects/sandbox/asmt/asmt/obj/Debug/net6.0/asmt.dll
+/home/paulg/projects/sandbox/asmt/asmt/obj/Debug/net6.0/refint/asmt.dll
+/home/paulg/projects/sandbox/asmt/asmt/obj/Debug/net6.0/asmt.pdb
+/home/paulg/projects/sandbox/asmt/asmt/obj/Debug/net6.0/asmt.genruntimeconfig.cache
+/home/paulg/projects/sandbox/asmt/asmt/obj/Debug/net6.0/ref/asmt.dll
